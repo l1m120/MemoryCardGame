@@ -1,6 +1,6 @@
 # 🧠 Memory Card Game  
 
-A full-stack **desktop application** built with **ScalaFX** and **Apache Derby**, designed to showcase **Object-Oriented Programming (OOP) principles** through an engaging memory game experience.  
+A full-stack **desktop application** built with **ScalaFX** and **Apache Derby**, designed to showcase **Object-Oriented Programming (OOP)** through an engaging memory game experience.  
 
 🎮 Challenge yourself to match pairs of cards in the **fewest moves** and **fastest time** across multiple difficulty levels, with a persistent leaderboard to track your performance!  
 
