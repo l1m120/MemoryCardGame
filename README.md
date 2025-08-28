@@ -68,5 +68,4 @@ To run the project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/sunwaydcis/finalprojectv2-limm-21
-   cd finalprojectv2-limm-21
+   git clone [https://github.com/sunwaydcis/finalprojectv2-limm-21](https://github.com/l1m120/MemoryCardGame)
